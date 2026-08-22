@@ -47,20 +47,3 @@
 **Backend:** FastAPI · Flask · Node.js  
 **Frontend:** React · Next.js · Vite · Tailwind CSS  
 **Tools:** Power BI · Colab · ngrok · Docker · Vercel
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishvam26&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvam26&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishvam26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-<p align="center"><i>⚡ Fun fact: I also run a motivational content page called <b>Karma Thoughts</b> on Instagram (Gujarati/Hindi philosophy reels)</i></p>
